@@ -1,2 +1,5 @@
-clean-env/
+.*env.*
+
+__pycache__
+
 Pre-trained Models
