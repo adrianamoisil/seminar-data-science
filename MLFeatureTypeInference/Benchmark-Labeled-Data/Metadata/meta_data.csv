@@ -167,7 +167,7 @@ Record_id,name,link
 166,members.csv,https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom
 167,topics.csv,https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom
 168,venues.csv,https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom
-169,Hotel_Reviews.csv,https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+169,hotel_reviews.csv,https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 170,test-added.csv,https://www.kaggle.com/mboaglio/simplifiedhuarus
 171,train 2.csv,https://www.kaggle.com/mboaglio/simplifiedhuarus
 172,ner_dataset.csv,https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
